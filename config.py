@@ -1,5 +1,5 @@
 settings = {
-    "http_server_port": 8001,
+    "http_server_port": 5000,
     "db": {
         "db": "webhooks",
         "host": "127.0.0.1",
