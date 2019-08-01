@@ -3,7 +3,7 @@ settings = {
     "db": {
         "db": "webhooks",
         "host": "127.0.0.1",
-        "port": 3306,
+        "port": 4040,
         "user": "root",
         "passwd": "root",
         "provider": "mysql"
